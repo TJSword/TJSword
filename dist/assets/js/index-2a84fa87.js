@@ -1,0 +1,1 @@
+import{d as e,c as a,a as o,o as s}from"./index-1216a8fe.js";const t={class:"wrap"},c={ref:"map",id:"map"},p=e({__name:"index",setup(n){return(r,_)=>(s(),a("div",t,[o("div",c,"123",512)]))}});export{p as default};

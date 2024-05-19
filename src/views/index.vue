@@ -1,7 +1,7 @@
 
 <template>
   <div class="wrap">
-    <div ref="map" id="map"></div>
+    <div ref="map" id="map">123</div>
 
   </div>
 </template>

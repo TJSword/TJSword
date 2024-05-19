@@ -12,7 +12,7 @@ import { createWebHashHistory, createRouter } from 'vue-router'
 export const constantRoutes = [
   {
     path: '/',
-    component: () => import('@/views/test.vue')
+    component: () => import('@/views/index.vue')
   },
 
   // 404页面
